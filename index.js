@@ -16,9 +16,3 @@ function updateObjectWithKeyAndValue(object, key, value){
   return object
 
 }
-
-function updateObjectWithKeyAndValue(object, key, value){
-
-  object = new Object({ key: value })
-  return object
-}
